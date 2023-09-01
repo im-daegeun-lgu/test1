@@ -43,6 +43,7 @@ int main () {
 	pass_yn='N';
 
 	printf("------1\n");
+	printf("------1\n");
 	if(strncmp(filter_date1,chk_str,4) <= 0) {
 	printf("------2\n");
 		printf(" date 1 < i30Date\n");
